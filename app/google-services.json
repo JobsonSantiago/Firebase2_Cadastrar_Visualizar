@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173682264686",
+    "project_id": "aluno-a4d91",
+    "storage_bucket": "aluno-a4d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173682264686:android:cb03ae5e7c0ef51541347f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYigQDCXeW2DaNPmn85gEwSFAVHSEj0u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
