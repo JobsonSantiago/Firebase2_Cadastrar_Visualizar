@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.firebase" />
-                  <option name="mobileSdkAppId" value="1:173682264686:android:cb03ae5e7c0ef51541347f" />
-                  <option name="projectId" value="aluno-a4d91" />
-                  <option name="projectNumber" value="173682264686" />
+                  <option name="mobileSdkAppId" value="1:3704052514:android:d863cdbee17c72c1d5237b" />
+                  <option name="projectId" value="clientes-37465" />
+                  <option name="projectNumber" value="3704052514" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

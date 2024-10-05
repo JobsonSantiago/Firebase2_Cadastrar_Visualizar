@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "173682264686",
-    "project_id": "aluno-a4d91",
-    "storage_bucket": "aluno-a4d91.appspot.com"
+    "project_number": "3704052514",
+    "project_id": "clientes-37465",
+    "storage_bucket": "clientes-37465.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:173682264686:android:cb03ae5e7c0ef51541347f",
+        "mobilesdk_app_id": "1:3704052514:android:6fe280cdc2ab96e3d5237b",
+        "android_client_info": {
+          "package_name": "com.company.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZ8TZEsLDBgr5i8uqwIbGg89mCcMDdhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3704052514:android:d863cdbee17c72c1d5237b",
         "android_client_info": {
           "package_name": "com.example.firebase"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAYigQDCXeW2DaNPmn85gEwSFAVHSEj0u0"
+          "current_key": "AIzaSyDqZ8TZEsLDBgr5i8uqwIbGg89mCcMDdhs"
         }
       ],
       "services": {
